@@ -8,7 +8,7 @@
 - 💖 I love tea 🧋, coffee ☕, chocolate 🍫, fruits 🍉, and being near water 🌊. 
 - 😄 Some of my hobbies are swimming 🏊, hiking 🚶‍♀️, biking 🚴‍♀️, playing games 🎮, cooking 🍳, silly dancing 💃, cleaning & organizing 📚
 - 🔉 I speak Cantonese, English, conversational Mandarin, and a little Spanish, Japanese, & Korean. At one point, I tried learning Russian, German, and Portuguese before. Language is quite fascinating! 😯
-- ⚡ Fun facts: I have a twin brother named Jacky and I'm left-handed. ✌️
+- ⚡ Fun facts: I have a twin brother named Jacky and I'm left-handed. ✌️ Please don't call me Jacky. 
 - 📫 How to reach me: xujacque@gmail.com
 
 
