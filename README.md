@@ -2,7 +2,8 @@
 <h1 align="center"> 👋 Hello there, I'm Jacqueline! ☺️ </h1>
  <h3 align="center"> A Self-Taught Front-End Developer from NYC. </h3>
 
-- 🌱 I am currently expanding my knowledge of React and JavaScript. I am also learning C# to improve on data structure and algorithms.  🤓
+- 🌱 I am currently expanding my knowledge of React and JavaScript. 
+      I am also learning C# to improve on data structure and algorithms.  🤓
 - 🎉 Open to job opportunities.
 - 💬 Talk to me about traveling and food! 
 - 💖 I love tea 🧋, coffee ☕, chocolate 🍫, fruits 🍉, and being near water 🌊. 
