@@ -2,11 +2,11 @@
 <h1 align="center"> 👋 Hello there, I'm Jacqueline! ☺️ </h1>
  <h3 align="center"> A Self-Taught Front-End Developer from NYC. </h3>
 
-- 🌱 I am currently expanding my knowledge of React & JavaScript. I am also learning C# to improve on data structure & algorithms.  🤓
+- 🌱 I am currently expanding my knowledge of React & JavaScript. I am also learning C# to improve on data structure & algorithms. 🤓
 - 🎉 Open to job opportunities.
 - 💬 Talk to me about traveling and food! 
 - 💖 I love tea 🧋, coffee ☕, chocolate 🍫, fruits 🍉, and being near water 🌊. 
-- 😄 Some of my hobbies are swimming 🏊, hiking 🚶‍♀️🚴‍♀️, playing games 🎮, cooking 🍳, silly dancing 💃, cleaning & organizing 📚
+- 😄 Some of my hobbies are swimming 🏊, hiking 🚶‍, biking 🚴‍♀️, playing games 🎮, cooking 🍳, silly dancing 💃, cleaning and organizing. 📚
 - 🔉 I speak Cantonese, English, conversational Mandarin, and a little Spanish, Japanese, & Korean. At one point, I tried learning Russian, German, and Portuguese before. Language is quite fascinating! 😯
 - ⚡ Fun facts: I have a twin brother named Jacky and I'm left-handed. ✌️ Please don't call me Jacky. 
 - 📫 How to reach me: xujacque@gmail.com
