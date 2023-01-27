@@ -2,7 +2,7 @@
 <h1 align="center"> 👋 Hello there, I'm Jacqueline! ☺️ </h1>
  <h3 align="center"> A Self-Taught Front-End Developer from NYC. </h3>
 
-- 🌱 I am currently expanding my knowledge of React & JavaScript. I am also learning C# to improve on data structure & algorithms. 🤓
+- 🌱 I am currently expanding my knowledge of React & JavaScript. 🤓
 - 🎉 Open to job opportunities.
 - 💬 Talk to me about traveling and food! 
 - 💖 I love tea 🧋, coffee ☕, chocolate 🍫, fruits 🍉, and being near water 🌊. 
@@ -19,7 +19,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width "45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui" width="45" height="45"/>
