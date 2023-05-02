@@ -2,7 +2,7 @@
 <h1 align="center"> 👋 Hello there, I'm Jacqueline! ☺️ </h1>
  <h3 align="center"> A Self-Taught Front-End Developer from NYC. </h3>
 
-- 🌱 I am currently expanding my knowledge of React & JavaScript. 🤓 I will be learning React Native, Jest, Axios, Redux, and Figma.
+- 🌱   I'm currently expanding my knowledge of React & JavaScript. I will be learning React Native, Jest, Axios, Redux, and Figma. I will also be learning Python for prompt engineering. 
 - 🎉 Open to job opportunities.
 - 💬 Talk to me about traveling and food! 
 - 💖 I love tea 🧋, coffee ☕, chocolate 🍫, fruits 🍉, and being near water 🌊. 
