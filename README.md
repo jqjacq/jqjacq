@@ -2,7 +2,8 @@
 <h1 align="center"> 👋 Hello there, I'm Jacqueline! ☺️ </h1>
  <h3 align="center"> A Self-Taught Front-End Developer from NYC. </h3>
 
-- 🌱   I'm currently expanding my knowledge of React & JavaScript. I will be learning React Native, Jest, Axios, Redux, and Figma. I will also be learning Python for prompt engineering. 
+- 🌱   I'm currently learning Python for prompt engineering and continually expanding my knowledge of React & JavaScript. <br>
+I will be learning React Native, Jest, Axios, Redux, and Figma. 
 - 🎉 Open to job opportunities.
 - 💬 Talk to me about traveling and food! 
 - 💖 I love tea 🧋, coffee ☕, chocolate 🍫, fruits 🍉, and being near water 🌊. 
@@ -29,6 +30,8 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
 <!--
 **jqjacq/jqjacq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
