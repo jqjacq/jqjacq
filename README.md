@@ -2,7 +2,7 @@
 <h1 align="center"> 👋 Hello there, I'm Jacqueline! ☺️ </h1>
  <h3 align="center"> A Self-Taught Front-End Developer from NYC. </h3>
 
-- 🌱   I'm currently learning Python for prompt engineering and continually expanding my knowledge of React & JavaScript. <br>
+- 🌱   I'm currently learning Python, C#, and continually expanding my knowledge of React & JavaScript. <br>
 I will be learning React Native, Jest, Axios, Redux, and Figma. 👩‍💻
 - 🎉 Open to job opportunities. 
 - 💬 Talk to me about traveling and food! ✈️🌏
@@ -32,17 +32,4 @@ I will be learning React Native, Jest, Axios, Redux, and Figma. 👩‍💻
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
-<!--
-**jqjacq/jqjacq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="python" width="45" height="45"/>
