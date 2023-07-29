@@ -13,7 +13,7 @@
 
 
 
-<h2 align="center"> Languages and Tools </h2>
+<h3 align="center"> Languages and Tools </h3>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
@@ -32,3 +32,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="python" width="45" height="45"/>
+
+<h3 align="center"> Certificate </h3>
+<p align="center">
+ <a href="https://learn.microsoft.com/api/credentials/share/en-us/jqjqjq/2FCC11843F1E892D?sharingId=BB0DACDD4272677D"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="100" height="100" align="center"/></a>
+
+ </p>
