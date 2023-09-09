@@ -2,7 +2,7 @@
 <h1 align="center"> 👋 Hello there, I'm Jacqueline! ☺️ </h1>
  <h3 align="center"> A Self-Taught Software Developer from NYC. </h3>
 
-- 🌱   I'm currently learning Python, C#, and continually expanding my knowledge of React & JavaScript. 👩‍💻
+- 🌱   I'm currently learning Python, Azure Cloud, and continually expanding my knowledge of React & JavaScript. 👩‍💻
 - 🎉 Open to job opportunities. 
 - 💬 Talk to me about traveling and food! ✈️🌏
 - 💖 I love tea, coffee, chocolate, fruits, and being near water. 🧋☕🍫🍉🌊
@@ -33,7 +33,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="python" width="45" height="45"/>
 
-<h3 align="center"> Certificate </h3>
+<h3 align="center"> Certificates </h3>
 <div align="center">
  <span>
   
