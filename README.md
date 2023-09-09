@@ -34,7 +34,17 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="python" width="45" height="45"/>
 
 <h3 align="center"> Certificate </h3>
-<p align="center">
- <a href="https://learn.microsoft.com/api/credentials/share/en-us/jqjqjq/2FCC11843F1E892D?sharingId=BB0DACDD4272677D"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="100" height="100" align="center"/></a>
-
- </p>
+<div align="center">
+ <span>
+  
+ <a href="https://learn.microsoft.com/api/credentials/share/en-us/jqjqjq/2FCC11843F1E892D?sharingId=BB0DACDD4272677D">
+ <strong>AZ900-Azure Fundamentals</span></strong>
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="100" height="100" align="center"/>
+ </a> 
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/jqjqjq/F0534D4E19D12238?sharingId=BB0DACDD4272677D">
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="100" height="100" align="center"/>
+ <strong>AI900-Azure AI Fundamentals</strong>
+</a>
+  
+ </div>
+ 
