@@ -3,7 +3,7 @@
  <h3 align="center"> A Self-Taught Software Developer from NYC. </h3>
 
 - 🧩 Coding is like puzzles. I love puzzles!
-- 🪴 I'm currently learning Python, TypeScript, and C#. 👩‍💻
+- 🪴 I am currently a student with Carnegie Mellon TechBridge. 👩‍💻
 - 💖 I love traveling and all kinds of food! ✈️🌏🧋
 - 😄 Some of my hobbies are swimming, playing games, cooking, silly dancing, cleaning and organizing. 🏊🎮🍳💃📚
 - 🔉 I find language quite fascinating! 😯 I speak Cantonese, English, conversational Mandarin, a little bit of Spanish, Japanese, & Korean. At one point, I tried learning Russian, German, and Portuguese.
